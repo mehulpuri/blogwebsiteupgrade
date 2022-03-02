@@ -10,6 +10,7 @@ Click the link to visit the [Blog Website](https://memu-blogwebsitev2.herokuapp.
 To build the app
 ```bash
 $ npm install
+```
 and then use
 ```bash
 node app.js 
