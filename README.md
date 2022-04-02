@@ -34,4 +34,4 @@ to run the app
 * adding authentication via passport.js (google OAUTH preferably)
 
 ## Communication Channel for this project
-[Telegram](t.me/blogwebsiterepo)
+[Telegram](https://t.me/blogwebsiterepo)
