@@ -30,7 +30,7 @@ to run the app
 
 ## HACKODEX CONTRIBUTIONS
 ### Feel free to contribute in any of the following areas
-* improving frontend (animations, responsiveness)
+* improving frontend (animations, responsiveness) , the website in its current state needs more design and visual corrections
 * adding authentication via passport.js (google OAUTH preferably)
 * In the current state, anyone can compose or modify blogs by visiting an exposed path, our goal is to implement admin login
 * adding a delete button to delete blogs (admin only)
