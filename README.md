@@ -1,6 +1,6 @@
 # Blog Website Upgrade
 
-This was made as a part of Web Dev Bootcamp from Udemy.
+Blog Website integration with mongoDB
 
 ## Deployed App
 
@@ -26,5 +26,6 @@ to run the app
 
 ## To Do:
 * implementing authentication for blog author
+* better front end (preferrably more animations)
 
 
