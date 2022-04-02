@@ -32,3 +32,6 @@ to run the app
 ### Feel free to contribute in any of the following areas
 * improving frontend (animations, responsiveness)
 * adding authentication via passport.js (google OAUTH preferably)
+
+## Communication Channel for this project
+[Telegram](t.me/blogwebsiterepo)
