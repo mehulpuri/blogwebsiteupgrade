@@ -29,6 +29,6 @@ to run the app
 * better front end (preferably more animations)
 
 ## HACKODEX CONTRIBUTIONS
-# Feel free to contribute in any of the following areas
+### Feel free to contribute in any of the following areas
 * improving frontend (animations, responsiveness)
 * adding authentication via passport.js (google OAUTH preferably)
