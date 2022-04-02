@@ -32,6 +32,8 @@ to run the app
 ### Feel free to contribute in any of the following areas
 * improving frontend (animations, responsiveness)
 * adding authentication via passport.js (google OAUTH preferably)
+* In the current state, anyone can compose or modify blogs by visiting an exposed path, our goal is to implement admin login
+* adding a delete button to delete blogs (admin only)
 
 ## Communication Channel for this project
 [Discord](https://discord.gg/5ux5GaGwgN)
