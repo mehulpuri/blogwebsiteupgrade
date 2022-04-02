@@ -26,6 +26,9 @@ to run the app
 
 ## To Do:
 * implementing authentication for blog author
-* better front end (preferrably more animations)
+* better front end (preferably more animations)
 
-
+## HACKODEX CONTRIBUTIONS
+# Feel free to contribute in any of the following areas
+* improving frontend (animations, responsiveness)
+* adding authentication via passport.js (google OAUTH preferably)
